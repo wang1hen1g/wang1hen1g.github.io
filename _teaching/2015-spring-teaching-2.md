@@ -1,7 +1,7 @@
 ---
 title: "Assistant Lecturer"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2022-teaching
 venue: "University of Essex, English Language and Linguuistics"
 date: 2022-10-01
