@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Linguistics, University of Glasgow, 2026 (expected)
-* M.Sc. in Linguistics, University of Edinburgh, 2021
-* B.A. in English, Ocean University of China, 2020
+* Ph.D in Advanced Li-Ion Battery Electrode Structuring, University of Glasgow, 
+* M.Eng. in Engineering, University of Cambridge, 2021
+* B.A. in Engineering, University of Cambridge, 2020
 
 
 
