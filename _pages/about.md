@@ -16,7 +16,7 @@ redirect_from:
 
 About me
 =====
-I'm a PhD researcher based at [GULP](https://www.gla.ac.uk/schools/critical/aboutus/resources/gulp/), University of Glasgow. I'm supervised by [Dr. Faith Chiu](https://www.gla.ac.uk/schools/critical/staff/faithchiu/) and [Dr. Rachel Smith](https://www.gla.ac.uk/schools/critical/staff/rachelsmith/).
+I'm a PhD researcher based at [NanoManufacturing](https://www.nanomanufacturing.eng.cam.ac.uk/), Cambridge University. I'm supervised by [Professor Michael De Volder](https://www.ifm.eng.cam.ac.uk/people/mfld2/).
 
 My research
 ======
