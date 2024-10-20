@@ -9,7 +9,7 @@ redirect_from:
 
 <br>
 
-<h1 style="font-size: 48px;">Hi</h1>
+<h1 style="font-size: 40px;">Hi,</h1>
 
 <br>
 
