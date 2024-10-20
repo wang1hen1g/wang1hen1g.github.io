@@ -3,10 +3,10 @@ title: "Perceiving speech produced with face masks in competing talker environme
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ' '
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://guarant.cz/icphs2023/493.pdf'
 citation: 'Chiu, F., Bartoševičiūtė, L., Lee, A., & Yao, Y. (2023, May). Perceiving speech produced with face masks in competing talker environments. In Hanyang International Symposium on Phonetics and Cognitive Sciences of Language 2023.'
 ---
 
