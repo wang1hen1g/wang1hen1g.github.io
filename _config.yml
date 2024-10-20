@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "V.Y"
 title_separator          : "-"
-name                     : &name "Vera Yujia Yao"
+name                     : &name "Heng Wang"
 description              : &description "personal description"
-url                      : https://verayaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wang1hen1g.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "verayaoyu/verayaoyu.github.io"
+repository               : "wang1hen1g/wang1hen1g.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "verayaoyu/verayaoyu.github.io"
 author:
   # Biographic information
   avatar           : "veranew.png"
-  name             : "Vera Yao"
+  name             : "Heng Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Phonetician"
+  bio              : # "Phonetician"
   location         : #Earth
-  employer         : "Univeristy of Glasgow"
+  employer         : "Cambridge University"
   uri              : # URL
-  email            : "y.yao.2@research.gla.ac.uk" 
+  email            : "hw492@cam.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
