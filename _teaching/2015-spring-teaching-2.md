@@ -1,15 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Assistant Lecturer"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2022-teaching
+venue: "University of Essex, English Language and Linguuistics"
+date: 2022-10-01
+location: "Colchester, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+As an assistant lecturer at the University of Essex, I taught the first-year undergraduate course LG110: Sounds. I delivered tutorials, prepared teaching materials, and marked student papers.
 Heading 1
 ======
 
