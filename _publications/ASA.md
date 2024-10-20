@@ -6,6 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ' '
 date: 2009-10-01
 venue: 'The Journal of the Acoustical Society of America'
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://pubs.aip.org/asa/jasa/article/153/3_supplement/A170/2886056/The-perception-of-acoustically-distorted-speech'
 citation: 'Chiu, F., Bartoseviciute, L., Lee, A., & Yao, Y. (2023). The perception of acoustically distorted speech produced with face masks in multilingual multi-talker environments. The Journal of the Acoustical Society of America, 153(3_supplement), A170-A170.'
 ---
