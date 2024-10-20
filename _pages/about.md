@@ -23,3 +23,7 @@ I'm a PhD researcher based at [GULP](https://www.gla.ac.uk/schools/critical/abou
 My research
 ======
 My research interests lie mainly within speech prosody, sociophonetics, and Glaswegian English. I am particularly intrigued by the intonation patterns of Glaswegian speakers, focusing on how speakers from different language backgrounds realise focus sentences.
+You can contact me at the email below:
+
+<p>Email: {{ site.author.email }}</p>
+
