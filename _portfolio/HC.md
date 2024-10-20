@@ -1,6 +1,6 @@
 ---
 title: "Hercules Cambridge"
-excerpt: "I advise, I design, I deliver.  <br/><img src='/images/HClogo.png'>"
+excerpt: "I advise, I design, I deliver. <br> <br/><img src='/images/HClogo.png'>"
 collection: portfolio
 ---
 
