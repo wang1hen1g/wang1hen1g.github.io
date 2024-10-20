@@ -8,13 +8,11 @@ redirect_from:
 ---
 
 <br>
-<br>
 
 <h1 style="font-size: 48px;">Hi</h1>
 
 <br>
-<br>
-<br>
+
 
 About me
 =====
