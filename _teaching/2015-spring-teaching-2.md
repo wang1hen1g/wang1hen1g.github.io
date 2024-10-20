@@ -9,11 +9,4 @@ location: "Colchester, UK"
 ---
 
 As an assistant lecturer at the University of Essex, I taught the first-year undergraduate course LG110: Sounds. I delivered tutorials, prepared teaching materials, and marked student papers.
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
