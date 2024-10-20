@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hercules Cambridge"
+excerpt: "Hercules Cambridge is an online skill development studio for student innovators and a design solution provider for clients.<br/><img src='/images/HClogo.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+https://www.herculescambridge.org.uk/
