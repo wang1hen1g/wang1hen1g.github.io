@@ -20,7 +20,10 @@ I'm a PhD researcher based at [GULP](https://www.gla.ac.uk/schools/critical/abou
 
 My research
 ======
-My research interests lie mainly within speech prosody, sociophonetics, and Glaswegian English. I am particularly intrigued by the intonation patterns of Glaswegian speakers, focusing on how speakers from different language backgrounds realise focus sentences.
+My research focuses on two key directions:
+1. The design and construction of an in-situ characterisation tool (dilatometry) to understand the mechanical and chemical processes happening while cycling battery materials.
+2. The development of scalable (R2R-compatible) processes to fabricate high areal-loading thick electrodes for Li-ion batteries.
+
 You can contact me at the email: 
 <p>{{ site.author.email }}</p>
 
